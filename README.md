@@ -1,9 +1,9 @@
 
 <div align="center">
 
-# Shape Cloud Collage on Irregular Canvas
-# ![Static Badge](https://img.shields.io/badge/pytorch-2.2.2-blue)
-# ![Static Badge](https://img.shields.io/badge/python-3.12.2-orange)
+# Enhancing Multi-Region Stylization with Interior-Guided Boundary Repair
+![Static Badge](https://img.shields.io/badge/pytorch-2.2.2-blue)
+![Static Badge](https://img.shields.io/badge/python-3.12.2-orange)
 
 Hong-Son Nguyen and Thi-Ngoc-Hanh Le*
 </div>
