@@ -22,6 +22,6 @@ Comming as soon as this paper is accepted.
 
 ## 🎥 Demo Video
 
-[![Watch demo](https://img.youtube.com/vi/kulddVW3FdI/0.jpg)](https://youtu.be/kulddVW3FdI)
+<iframe width="600" height="350" src="https://www.youtube.com/embed/kulddVW3FdI" frameborder="0" allowfullscreen></iframe>
 
 
