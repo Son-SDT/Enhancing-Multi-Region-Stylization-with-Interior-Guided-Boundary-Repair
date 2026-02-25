@@ -18,9 +18,11 @@ Region-based neural style transfer serves benefits in interactive content creati
 
 Comming as soon as this paper is accepted.
 
-## UI Demo
-
 ## 🎥 Demo Video
 
-<video src="video/demo.mp4" controls width="800"></video>
+<p align="center">
+  <a href="https://youtu.be/kulddVW3FdI">
+    <img src="https://img.youtube.com/vi/kulddVW3FdI/maxresdefault.jpg" width="800">
+  </a>
+</p>
 
