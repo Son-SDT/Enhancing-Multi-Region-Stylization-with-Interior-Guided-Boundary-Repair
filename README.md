@@ -9,9 +9,14 @@
   <b>Hong-Son Nguyen<sup>1,2</sup> and Thi-Ngoc-Hanh Le<sup>1,2*</sup></b>
 </p>
 
-<p align="center">
+<p align="center" style="font-size:14px;">
   <sup>1</sup> School of Computer Science and Engineering, International University, Ho Chi Minh City, Viet Nam.<br>
   <sup>2</sup> Vietnam National University, Ho Chi Minh City, Viet Nam.
+</p>
+
+<p align="center" style="font-size:13px;">
+  *Corresponding author(s). E-mail(s): ltnhanh@hcmiu.edu.vn;<br>
+  Contributing authors: sonhongnguyen.researcher@gmail.com;
 </p>
 ![teaser](figures/raw_git.png)
 </div>
